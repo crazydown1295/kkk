@@ -1,0 +1,14 @@
+{
+  "token": "MTA0NTA3ODE0NTc4MDQyMDc1Mw.GJdl4g.MMZ7h6RGOMSnbcUwzB2ulbefSvMH2mLbEopmaU",
+  "clientId": "1045078145780420753",
+  "owner": "<your id, used for /authorize and /deauthorize>",
+  "webhookURL": "https://discord.com/api/webhooks/1061397610683969677/HX3mL2m0jbGQa5cAIAhOmQtjn-i1LwdKIL43xco4IHl4O3mklW_zoCO1kAaig-YsZGAb",
+  "forwarder_base_url": "<forwarder base url>",
+  "db": {
+    "host": "127.0.0.1",
+    "port": 3306,
+    "database": "mernis",
+    "user": "root",
+    "password": ""
+  }
+}
